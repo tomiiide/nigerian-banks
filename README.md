@@ -4,10 +4,10 @@ Need a list of nigerian banks in a database, JSON or PHP application? Well worry
 
 Here they are.
 
-[MySQL](http://link)
+[SQL](https://github.com/tomiiide/nigerian-banks/raw/master/banks.sql)
 
-[JSON](http://link)
+[JSON](https://github.com/tomiiide/nigerian-banks/raw/master/banks.json)
 
-[PHP Array](http://link)
+[PHP Array](https://github.com/tomiiide/nigerian-banks/raw/master/banks.php)
 
-Don't hesitate to send a PR if you want to contribute. Thanks.
+Don't hesitate to send a PR if you want to contribute. :v: & :heart:
