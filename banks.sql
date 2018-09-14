@@ -6,7 +6,7 @@
 CREATE TABLE `banks` (
   `id` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
-  `code` varchar(5) NOT NULL,
+  `code` varchar(5) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
