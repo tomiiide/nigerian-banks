@@ -5,36 +5,38 @@
 
 CREATE TABLE `banks` (
   `id` int(11) NOT NULL,
-  `name` varchar(100) NOT NULL
+  `name` varchar(100) NOT NULL,
+  `code` varchar(5) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `banks`
 --
 
-INSERT INTO `banks` (`id`, `name`) VALUES
-(1, 'Access Bank'),
-(2, 'Citibank'),
-(3, 'Diamond Bank'),
-(4, 'Dynamic Standard Bank'),
-(5, 'Ecobank Nigeria'),
-(6, 'Fidelity Bank Nigeria'),
-(7, 'First Bank of Nigeria'),
-(8, 'First City Monument Bank'),
-(9, 'Guaranty Trust Bank'),
-(10, 'Heritage Bank Plc'),
-(11, 'Keystone Bank Limited'),
-(12, 'Providus Bank Plc'),
-(13, 'Skye Bank'),
-(14, 'Stanbic IBTC Bank Nigeria Limited'),
-(15, 'Standard Chartered Bank'),
-(16, 'Sterling Bank'),
-(17, 'Suntrust Bank Nigeria Limited'),
-(18, 'Union Bank of Nigeria'),
-(19, 'United Bank for Africa'),
-(20, 'Unity Bank Plc'),
-(21, 'Wema Bank'),
-(22, 'Zenith Bank');
+INSERT INTO `banks` (`id`, `name`,`code`) VALUES
+(1, 'Access Bank','044'),
+(2, 'Citibank','023'),
+(3, 'Diamond Bank','063'),
+(4, 'Dynamic Standard Bank',' '),
+(5, 'Ecobank Nigeria','050'),
+(6, 'Fidelity Bank Nigeria','070'),
+(7, 'First Bank of Nigeria','011'),
+(8, 'First City Monument Bank','214'),
+(9, 'Guaranty Trust Bank','058'),
+(10, 'Heritage Bank Plc','030'),
+(11, 'Jaiz Bank','301'),
+(12, 'Keystone Bank Limited','082'),
+(13, 'Providus Bank Plc','101'),
+(14, 'Skye Bank','076'),
+(15, 'Stanbic IBTC Bank Nigeria Limited','221'),
+(16, 'Standard Chartered Bank','068'),
+(17, 'Sterling Bank','232'),
+(18, 'Suntrust Bank Nigeria Limited','100'),
+(19, 'Union Bank of Nigeria','032'),
+(20, 'United Bank for Africa','033'),
+(21, 'Unity Bank Plc','215'),
+(22, 'Wema Bank','035'),
+(23, 'Zenith Bank','057');
 
 --
 -- Indexes for dumped tables
