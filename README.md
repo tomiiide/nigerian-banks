@@ -8,6 +8,10 @@ Here they are.
 
 [JSON](https://github.com/tomiiide/nigerian-banks/raw/master/banks.json)
 
+[Python](https://github.com/tomiiide/nigerian-banks/raw/master/banks.py)
+
+[Go](https://github.com/tomiiide/nigerian-banks/raw/master/banks.go)
+
 [PHP Array](https://github.com/tomiiide/nigerian-banks/raw/master/banks.php)
 
 Don't hesitate to send a PR if you want to contribute. :v: & :heart:

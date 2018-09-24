@@ -1,5 +1,4 @@
-//.banks
-[   
+[
     { "id": "1", "name": "Access Bank" ,"code":"044" },
     { "id": "2", "name": "Citibank","code":"023" },
     { "id": "3", "name": "Diamond Bank","code":"063" },
