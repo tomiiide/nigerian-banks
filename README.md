@@ -10,7 +10,8 @@ Here they are.
 
 [Python](https://github.com/tomiiide/nigerian-banks/raw/master/banks.py)
 
-[PHP Array](https://github.com/tomiiide/nigerian-banks/raw/master/banks.php)
+[Go](https://github.com/tomiiide/nigerian-banks/raw/master/banks.go)
 
+[PHP Array](https://github.com/tomiiide/nigerian-banks/raw/master/banks.php)
 
 Don't hesitate to send a PR if you want to contribute. :v: & :heart:
