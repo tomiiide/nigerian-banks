@@ -1,3 +1,18 @@
+// Package main implements list of Nigerian bank in Go.
+//
+// @author
+//  Victor I. Afolabi
+//  Artificial Intelligence & Software Engineer.
+//  Email: javafolabi@gmail.com
+//  GitHub: https://github.com/victor-iyiola
+//
+// @project
+//  File: banks.py
+//  Created on 24 September, 2018 @ 01:52 AM.
+//
+// @license
+//  MIT License
+//  Copyright (c) 2018. Victor I. Afolabi. All rights reserved.
 package main
 
 import "fmt"
