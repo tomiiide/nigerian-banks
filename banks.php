@@ -23,7 +23,7 @@ $banks = array(
   array('id' => '11','name' => 'Jaiz Bank','code'=>'301'),
   array('id' => '12','name' => 'Keystone Bank Limited','code'=>'082'),
   array('id' => '13','name' => 'Providus Bank Plc','code'=>'101'),
-  array('id' => '14','name' => 'Skye Bank','code'=>'076'),
+  array('id' => '14','name' => 'Polaris Bank','code'=>'076'),
   array('id' => '15','name' => 'Stanbic IBTC Bank Nigeria Limited','code'=>'221'),
   array('id' => '16','name' => 'Standard Chartered Bank','code'=>'068'),
   array('id' => '17','name' => 'Sterling Bank','code'=>'232'),

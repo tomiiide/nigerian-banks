@@ -39,7 +39,7 @@ func Banks() []*Bank {
 		&Bank{ID: 11, Code: "301", Name: "Jaiz Bank"},
 		&Bank{ID: 12, Code: "082", Name: "Keystone Bank Limited"},
 		&Bank{ID: 13, Code: "101", Name: "Providus Bank Plc"},
-		&Bank{ID: 14, Code: "076", Name: "Skye Bank"},
+		&Bank{ID: 14, Code: "076", Name: "Polaris Bank"},
 		&Bank{ID: 15, Code: "221", Name: "Stanbic IBTC Bank Nigeria Limited"},
 		&Bank{ID: 16, Code: "068", Name: "Standard Chartered Bank"},
 		&Bank{ID: 17, Code: "232", Name: "Sterling Bank"},

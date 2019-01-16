@@ -45,7 +45,7 @@ Banks = [
     Bank(id=11, code='301', name='Jaiz Bank'),
     Bank(id=12, code='082', name='Keystone Bank Limited'),
     Bank(id=13, code='101', name='Providus Bank Plc'),
-    Bank(id=14, code='076', name='Skye Bank'),
+    Bank(id=14, code='076', name='Polaris Bank'),
     Bank(id=15, code='221', name='Stanbic IBTC Bank Nigeria Limited'),
     Bank(id=16, code='068', name='Standard Chartered Bank'),
     Bank(id=17, code='232', name='Sterling Bank'),

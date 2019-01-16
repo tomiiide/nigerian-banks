@@ -27,7 +27,7 @@ INSERT INTO `banks` (`id`, `name`,`code`) VALUES
 (11, 'Jaiz Bank','301'),
 (12, 'Keystone Bank Limited','082'),
 (13, 'Providus Bank Plc','101'),
-(14, 'Skye Bank','076'),
+(14, 'Polaris Bank','076'),
 (15, 'Stanbic IBTC Bank Nigeria Limited','221'),
 (16, 'Standard Chartered Bank','068'),
 (17, 'Sterling Bank','232'),
