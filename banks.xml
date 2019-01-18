@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <id>1</id>
+    <name>Access Bank</name>
+    <code>044</code>
+  </row>
+  <row>
+    <id>2</id>
+    <name>Citibank</name>
+    <code>023</code>
+  </row>
+  <row>
+    <id>3</id>
+    <name>Diamond Bank</name>
+    <code>063</code>
+  </row>
+  <row>
+    <id>4</id>
+    <name>Dynamic Standard Bank</name>
+    <code></code>
+  </row>
+  <row>
+    <id>5</id>
+    <name>Ecobank Nigeria</name>
+    <code>050</code>
+  </row>
+  <row>
+    <id>6</id>
+    <name>Fidelity Bank Nigeria</name>
+    <code>070</code>
+  </row>
+  <row>
+    <id>7</id>
+    <name>First Bank of Nigeria</name>
+    <code>011</code>
+  </row>
+  <row>
+    <id>8</id>
+    <name>First City Monument Bank</name>
+    <code>214</code>
+  </row>
+  <row>
+    <id>9</id>
+    <name>Guaranty Trust Bank</name>
+    <code>058</code>
+  </row>
+  <row>
+    <id>10</id>
+    <name>Heritage Bank Plc</name>
+    <code>030</code>
+  </row>
+  <row>
+    <id>11</id>
+    <name>Jaiz Bank</name>
+    <code>301</code>
+  </row>
+  <row>
+    <id>12</id>
+    <name>Keystone Bank Limited</name>
+    <code>082</code>
+  </row>
+  <row>
+    <id>13</id>
+    <name>Providus Bank Plc</name>
+    <code>101</code>
+  </row>
+  <row>
+    <id>14</id>
+    <name>Polaris Bank</name>
+    <code>076</code>
+  </row>
+  <row>
+    <id>15</id>
+    <name>Stanbic IBTC Bank Nigeria Limited</name>
+    <code>221</code>
+  </row>
+  <row>
+    <id>16</id>
+    <name>Standard Chartered Bank</name>
+    <code>068</code>
+  </row>
+  <row>
+    <id>17</id>
+    <name>Sterling Bank</name>
+    <code>232</code>
+  </row>
+  <row>
+    <id>18</id>
+    <name>Suntrust Bank Nigeria Limited</name>
+    <code>100</code>
+  </row>
+  <row>
+    <id>19</id>
+    <name>Union Bank of Nigeria</name>
+    <code>032</code>
+  </row>
+  <row>
+    <id>20</id>
+    <name>United Bank for Africa</name>
+    <code>033</code>
+  </row>
+  <row>
+    <id>21</id>
+    <name>Unity Bank Plc</name>
+    <code>215</code>
+  </row>
+  <row>
+    <id>22</id>
+    <name>Wema Bank</name>
+    <code>035</code>
+  </row>
+  <row>
+    <id>23</id>
+    <name>Zenith Bank</name>
+    <code>057</code>
+  </row>
+</root>
