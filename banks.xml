@@ -42,76 +42,86 @@
   </row>
   <row>
     <id>9</id>
+    <name>GoMoney</name>
+    <code>232</code>
+  </row>
+  <row>
+    <id>10</id>
     <name>Guaranty Trust Bank</name>
     <code>058</code>
   </row>
   <row>
-    <id>10</id>
+    <id>11</id>
     <name>Heritage Bank Plc</name>
     <code>030</code>
   </row>
   <row>
-    <id>11</id>
+    <id>12</id>
     <name>Jaiz Bank</name>
     <code>301</code>
   </row>
   <row>
-    <id>12</id>
+    <id>13</id>
     <name>Keystone Bank Limited</name>
     <code>082</code>
   </row>
   <row>
-    <id>13</id>
+    <id>14</id>
+    <name>Kuda Bank</name>
+    <code>50211</code>
+  </row>
+  <row>
+    <id>15</id>
     <name>Providus Bank Plc</name>
     <code>101</code>
   </row>
   <row>
-    <id>14</id>
+    <id>16</id>
     <name>Polaris Bank</name>
     <code>076</code>
   </row>
   <row>
-    <id>15</id>
+    <id>17</id>
     <name>Stanbic IBTC Bank Nigeria Limited</name>
     <code>221</code>
   </row>
   <row>
-    <id>16</id>
+    <id>18</id>
     <name>Standard Chartered Bank</name>
     <code>068</code>
   </row>
   <row>
-    <id>17</id>
+    <id>19</id>
     <name>Sterling Bank</name>
     <code>232</code>
   </row>
   <row>
-    <id>18</id>
+    <id>20</id>
     <name>Suntrust Bank Nigeria Limited</name>
     <code>100</code>
   </row>
   <row>
-    <id>19</id>
+    <id>21</id>
     <name>Union Bank of Nigeria</name>
     <code>032</code>
   </row>
   <row>
-    <id>20</id>
+    <id>22</id>
     <name>United Bank for Africa</name>
     <code>033</code>
   </row>
   <row>
-    <id>21</id>
+    <id>23</id>
     <name>Unity Bank Plc</name>
     <code>215</code>
   </row>
   <row>
-    <id>22</id>
+    <id>24</id>
     <name>Wema Bank</name>
     <code>035</code>
   </row>
   <row>
-    <id>23</id>
+    <id>25</id>
     <name>Zenith Bank</name>
     <code>057</code>
   </row>
