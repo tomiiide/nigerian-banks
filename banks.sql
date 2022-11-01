@@ -31,6 +31,7 @@ INSERT INTO `banks` (`id`, `name`,`code`) VALUES
 (15, 'Stanbic IBTC Bank Nigeria Limited','221'),
 (16, 'Standard Chartered Bank','068'),
 (17, 'Sterling Bank','232'),
+(24, 'Skye Bank','076'),
 (18, 'Suntrust Bank Nigeria Limited','100'),
 (19, 'Union Bank of Nigeria','032'),
 (20, 'United Bank for Africa','033'),
