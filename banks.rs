@@ -1,3 +1,19 @@
+// Package main implements list of Nigerian bank in Rust.
+//
+// @author
+//  Abdullah Ajibade
+//  Blockchain/Software Engineer.
+//  Email: ajibadeabd@gmail.com
+//  GitHub: https://github.com/ajibadeabd
+//
+// @project
+//  File: banks.rs
+//  Created on 13 July, 2023 @ 01:57 PM.
+//
+// @license
+//  MIT License
+//  Copyright (c) 2023. Abdullah Ajibade. All rights reserved.
+
 #[derive(Debug)]
 struct Bank {
     id: u32,
